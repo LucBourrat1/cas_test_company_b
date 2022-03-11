@@ -38,8 +38,10 @@ To read the notebook from the jupyter lab web API:
 jupyter lab
 ```
 
-Then click on the hyperlink in the command line, and once in the API in your web browser, click on the .ipynb file.
+The jupyter lab API is opening automatically into your web browser; select the python 3 kernel. 
 
-From here, on the top menu, click on "Cellule -> Exécuter tout".
+From here, on the top menu, click on "Run -> Run All Cells".
 
 Wait until all the cells are correctly launched, and read the notebook.
+
+The notebook can also be read with google collab.
