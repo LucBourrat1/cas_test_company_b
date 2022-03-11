@@ -32,10 +32,10 @@ The library used to read the jupyter notebooks is included.
 
 # 3) read the .ipynb file using jupyter notebook
 
-To read the notebook from the jupyter notebook web API:
+To read the notebook from the jupyter lab web API:
 
 ```bash
-jupyter notebook
+jupyter lab
 ```
 
 Then click on the hyperlink in the command line, and once in the API in your web browser, click on the .ipynb file.
